@@ -35,7 +35,7 @@ write those credentials into an .env file with the following format:
 
 ```bash
 GENAI_KEY=YOUR_KEY_HERE!!!
-GENAI_API=https://bam-api.res.ibm.com/v1
+GENAI_API=https://us-south.ml.cloud.ibm.com/ml/v1-beta/generation/text?version=2023-05-29
 ```
 
 # Run the notebook
