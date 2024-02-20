@@ -28,14 +28,18 @@ instaloader --comments mercedesbenz
 
 # Getting watsonx.ai credentials
 
-Go to watsonx.ai and create an account. You will need to create a project and get the API key and URL.
+Go to watsonx.ai and create an account. You will need to create a project and get the API key.
 ![Alt text](image-1.png)
+
+This is how you get your project ID
+![alt text](image-2.png)
 
 write those credentials into an .env file with the following format:
 
 ```bash
 GENAI_KEY=YOUR_KEY_HERE!!!
-GENAI_API=https://us-south.ml.cloud.ibm.com/ml/v1-beta/generation/text?version=2023-05-29
+GENAI_API=https://us-south.ml.cloud.ibm.com
+PROJECT_ID=YOUR_PROJECT_ID_HERE!!!
 ```
 
 # Run the notebook
