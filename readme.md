@@ -45,3 +45,6 @@ PROJECT_ID=YOUR_PROJECT_ID_HERE!!!
 # Run the notebook
 
 Run from top to bottom and enjoy! 
+
+![image](https://github.com/Max-Jesch/watsonx_for_social_media/assets/23448917/b265928a-1b1b-4baf-ac6c-5f76a7e8a44b)
+An example for the brand Audi
